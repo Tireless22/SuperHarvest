@@ -3,5 +3,10 @@
 	"EngineAssociation": "4.21",
 	"Category": "",
 	"Description": "",
-	"Plugins": []
+	"Plugins": [
+		{
+			"Name": "ApexDestruction",
+			"Enabled": true
+		}
+	]
 }
